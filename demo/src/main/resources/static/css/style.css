@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.table th {
+    background-color: #34495e;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #2980b9;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #3498db;
+}
+
+.btn-warning {
+    background-color: #f39c12;
+    border-color: #e67e22;
+}
+
+.btn-danger {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+}
